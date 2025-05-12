@@ -21717,3 +21717,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12May2025 23:25:56.686] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [12May2025 23:28:09.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 23:28:09.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:33:08.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:33:09.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:37:41.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Multi-Tool]
+[12May2025 23:38:09.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:38:09.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:39:30.193] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:modern_house1
