@@ -5382,3 +5382,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12May2025 22:24:05.937] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a92c64b[id=<null>,name=benghijairo_GT,properties={},legacy=false] (/127.119.26.239:34405) lost connection: Timed out
 [12May2025 22:28:24.185] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
 [12May2025 22:33:11.933] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b78120[id=<null>,name=benghijairo_GT,properties={},legacy=false] (/127.119.26.239:57975) lost connection: Timed out
+[12May2025 22:46:34.788] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/misc/KryptonPipelineEvent
+[12May2025 22:46:34.791] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[12May2025 22:46:34.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:55147] logged in with entity id 283 at (-0.5559005826991392, 94.0, -2.300000011920929)
+[12May2025 22:46:34.888] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[12May2025 22:46:34.902] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[12May2025 22:46:34.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[12May2025 22:46:34.963] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
+[12May2025 22:46:35.206] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[12May2025 22:46:35.208] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[12May2025 22:46:35.261] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] seen for the first time as 'Player:'benghijairo_GT'['overworld']'
+[12May2025 22:46:35.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/gunshots/EPlayerHitArea
+[12May2025 22:46:35.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/gunshots/snapshots/CommonPlayerModel$ArmPose
+[12May2025 22:46:35.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[12May2025 22:46:35.655] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[12May2025 22:46:35.656] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[12May2025 22:46:35.658] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[12May2025 22:46:35.696] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[12May2025 22:46:37.035] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/util/PatchSpreader$Susceptibility
+[12May2025 22:46:37.036] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/util/PatchSpreader$WeatheringAgent
+[12May2025 22:46:52.037] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[12May2025 22:47:17.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[12May2025 22:47:48.990] [Worker-Main-36/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[12May2025 22:47:54.671] [Worker-Main-36/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[12May2025 22:47:57.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[12May2025 22:48:01.884] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/zombieawareness/EnumSenseType
+[12May2025 22:48:23.892] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[12May2025 22:48:37.651] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/village/poi/PoiManager$Occupancy
+[12May2025 22:48:49.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[12May2025 22:48:49.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[12May2025 22:50:20.024] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[12May2025 22:50:44.580] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
+[12May2025 22:51:52.940] [FastSuite Recipe Lookup Thread: 2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting pepjebs/mapatlases/utils/MapType
