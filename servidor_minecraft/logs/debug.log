@@ -21723,3 +21723,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12May2025 23:38:09.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 23:38:09.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12May2025 23:39:30.193] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:modern_house1
+[12May2025 23:43:09.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:43:09.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:48:09.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:48:09.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:49:04.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/touring_car
+[12May2025 23:49:57.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[12May2025 23:53:09.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:53:09.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

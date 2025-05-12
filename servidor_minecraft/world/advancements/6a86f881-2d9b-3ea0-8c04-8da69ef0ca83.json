@@ -866,6 +866,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lime_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
@@ -908,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/redwood_biomesoplenty_chair_modern": {
     "criteria": {
       "has_planks": "2025-05-12 23:32:51 +0000"
@@ -917,6 +929,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -950,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-12 23:32:28 +0000"
@@ -959,6 +983,24 @@
   "pfm:recipes/furniture/pink_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_button": {
+    "criteria": {
+      "has_thing": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -983,6 +1025,12 @@
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-12 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1022,6 +1070,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/palm_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
@@ -1034,9 +1088,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/magenta_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1049,6 +1121,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
       "has_oak_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_microwave": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1103,6 +1181,12 @@
   "pfm:recipes/furniture/willow_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -1184,9 +1268,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-05-12 22:53:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1220,9 +1316,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-12 22:48:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1250,15 +1358,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_raw_table_log": {
     "criteria": {
       "has_log": "2025-05-12 22:50:26 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-05-12 22:53:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1286,9 +1418,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1310,6 +1454,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/warped_lane": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
@@ -1322,9 +1472,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1349,6 +1517,24 @@
   "pfm:recipes/furniture/umbran_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -1379,6 +1565,18 @@
   "pfm:recipes/furniture/purple_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1427,6 +1625,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1490,6 +1694,18 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/diorite_castel_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-05-12 22:48:23 +0000"
@@ -1544,9 +1760,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/hellbark_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1568,6 +1808,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/mirror": {
+    "criteria": {
+      "get_glass_block": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
@@ -1580,15 +1838,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-05-12 22:53:20 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1610,15 +1898,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-12 22:53:20 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lime_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -1643,6 +1961,12 @@
   "pfm:recipes/furniture/mahogany_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/computer": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1706,6 +2030,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
@@ -1748,6 +2078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/yellow_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
@@ -1778,15 +2114,33 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/diorite_castel_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-12 23:32:28 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -1799,6 +2153,18 @@
   "pfm:recipes/furniture/white_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1826,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-12 23:22:00 +0000"
@@ -1838,9 +2210,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1886,6 +2270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
@@ -1901,6 +2291,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-12 23:32:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1934,15 +2330,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-12 22:48:23 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sand_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-12 23:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-12 22:53:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -1961,6 +2381,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2012,15 +2438,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_tile_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-12 23:22:00 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-12 23:50:14 +0000"
     },
     "done": true
   },
@@ -2054,6 +2510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-05-12 23:33:24 +0000"
@@ -2066,9 +2528,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/spruce_lane": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2084,6 +2564,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-12 22:48:23 +0000"
@@ -2096,15 +2582,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sand_button": {
+    "criteria": {
+      "has_thing": "2025-05-12 23:50:14 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/oak_large_button": {
     "criteria": {
       "has_thing": "2025-05-12 22:51:56 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_button_stonecutter": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_oak_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/sandy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-12 23:50:14 +0000"
     },
     "done": true
   },
@@ -2150,6 +2672,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-05-12 23:30:25 +0000"
@@ -2171,6 +2699,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2204,9 +2738,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/orange_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/glass_tiles_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2288,6 +2834,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-05-12 22:53:03 +0000"
@@ -2312,9 +2870,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-05-12 22:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2384,6 +2966,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_table_classic": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
@@ -2393,6 +2981,12 @@
   "pfm:recipes/furniture/purple_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2414,6 +3008,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_stove": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
@@ -2423,6 +3023,12 @@
   "pfm:recipes/furniture/jacaranda_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2447,6 +3053,18 @@
   "pfm:recipes/furniture/jacaranda_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2498,6 +3116,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/diorite_castel_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-12 22:53:20 +0000"
@@ -2507,6 +3131,12 @@
   "pfm:recipes/furniture/redwood_biomesoplenty_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-12 23:27:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2525,6 +3155,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-12 23:28:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tile_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -2636,6 +3272,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-05-12 22:51:56 +0000"
@@ -2648,6 +3290,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-05-12 22:51:56 +0000"
@@ -2657,6 +3311,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-12 22:48:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -2684,6 +3344,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-12 23:22:00 +0000"
@@ -2699,6 +3371,12 @@
   "pfm:recipes/furniture/oak_chair_classic": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -2726,6 +3404,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/dark_oak_lane": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
@@ -2747,6 +3431,18 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-12 23:22:00 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tile_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -2780,6 +3476,12 @@
     },
     "done": true
   },
+  "xkdeco:recipes/decorations/item_frame_cover_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-12 22:50:26 +0000"
@@ -2795,6 +3497,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-05-12 23:28:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -2882,6 +3590,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/green_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
@@ -2918,6 +3638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-12 23:50:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
@@ -2942,6 +3668,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/palm_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
@@ -2960,6 +3692,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
@@ -2975,6 +3713,12 @@
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-05-12 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -3020,6 +3764,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
@@ -3035,6 +3785,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-12 23:33:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -3056,6 +3812,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/diorite_castel_tile_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/crimson_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:20 +0000"
@@ -3071,6 +3833,18 @@
   "pfm:recipes/furniture/warped_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -3128,9 +3902,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/maya_stone": {
     "criteria": {
       "has_andesite": "2025-05-12 23:22:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-05-12 23:50:14 +0000"
     },
     "done": true
   },
@@ -3140,9 +3932,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-12 22:53:55 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -3191,6 +4001,12 @@
   "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_planks": "2025-05-12 23:32:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/television": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
@@ -3266,6 +4082,12 @@
     },
     "done": true
   },
+  "thingamajigs:recipes/building_blocks/reinforced_glass": {
+    "criteria": {
+      "get_glass_inventory": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/redwood_biomesoplenty_table_log": {
     "criteria": {
       "has_log": "2025-05-12 23:32:51 +0000"
@@ -3275,6 +4097,12 @@
   "pfm:recipes/furniture/mangrove_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/diorite_castel_tiles_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -3344,6 +4172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
     "criteria": {
       "has_planks": "2025-05-12 22:51:56 +0000"
@@ -3410,6 +4244,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-12 23:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-05-12 23:22:00 +0000"
@@ -3437,6 +4283,12 @@
   "pfm:recipes/furniture/magenta_arm_chair": {
     "criteria": {
       "has_wool": "2025-05-12 22:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-12 23:45:34 +0000"
     },
     "done": true
   },
@@ -3500,9 +4352,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-12 23:52:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-05-12 22:48:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-05-12 23:52:21 +0000"
     },
     "done": true
   },
