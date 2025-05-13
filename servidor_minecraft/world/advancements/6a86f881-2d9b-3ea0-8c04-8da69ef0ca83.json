@@ -6198,18 +6198,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-05-13 23:01:27 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/calcite_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-05-13 22:52:27 +0000"
@@ -6234,33 +6222,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/alarm": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6270,27 +6234,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_piston": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/calcite_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6306,24 +6252,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/keypad_frame": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-05-13 23:01:28 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/redstone_torch_lever": {
-    "criteria": {
-      "has_thing": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-13 22:52:27 +0000"
@@ -6333,12 +6261,6 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6366,39 +6288,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_block_modifier": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/calcite_button": {
     "criteria": {
       "has_thing": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cage_trap": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/redstone_torch_button": {
-    "criteria": {
-      "has_thing": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6408,27 +6300,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-05-13 23:01:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/calcite_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6444,21 +6318,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/calcite_chair_dinner": {
     "criteria": {
       "calcite_chair_dinner": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/username_logger": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6468,27 +6330,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/calcite_large_button": {
     "criteria": {
       "has_thing": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-05-13 23:01:27 +0000"
     },
     "done": true
   },
@@ -6504,33 +6348,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/portable_radar": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/taser": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dropper": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6552,12 +6372,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_key_changer": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-13 22:52:27 +0000"
@@ -6567,12 +6381,6 @@
   "infinitybuttons:recipe/redstone/calcite_button_stonecutter": {
     "criteria": {
       "has_calcite": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6612,12 +6420,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/calcite_table_basic": {
     "criteria": {
       "calcite_table_basic": "2025-05-13 22:52:27 +0000"
@@ -6636,21 +6438,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/claymore": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/calcite_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-13 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
-    "criteria": {
-      "has_item": "2025-05-13 22:54:05 +0000"
     },
     "done": true
   },
@@ -6660,21 +6450,411 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/panic_button": {
-    "criteria": {
-      "has_redstone": "2025-05-13 22:54:05 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/calcite_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-13 22:52:27 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/redstone_torch_lever": {
+    "criteria": {
+      "has_thing": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/redstone_torch_button": {
+    "criteria": {
+      "has_thing": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-05-13 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-13 23:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-13 23:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-13 23:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-13 23:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-13 23:01:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/tuff_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/tuff_button": {
+    "criteria": {
+      "has_thing": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tiles_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/tuff_button_stonecutter": {
+    "criteria": {
+      "has_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-13 23:13:01 +0000"
     },
     "done": true
   },

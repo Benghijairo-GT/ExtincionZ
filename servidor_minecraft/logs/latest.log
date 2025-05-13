@@ -5418,3 +5418,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13May2025 23:04:31.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
 [13May2025 23:04:31.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [13May2025 23:04:31.721] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[13May2025 23:12:57.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asias_SX[/127.57.62.112:37635] logged in with entity id 3120 at (1.5, 97.0, -3.5)
+[13May2025 23:12:57.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX joined the game
+[13May2025 23:12:57.676] [Server thread/INFO] [Jade/]: Syncing config to Asias_SX (60443e8a-ce41-3db5-b413-f22c7757fd35)
+[13May2025 23:12:57.683] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] seen for the first time as 'Player:'Asias_SX'['overworld']'
+[13May2025 23:12:59.498] [Server thread/INFO] [ping-wheel/]: Channel update: Asias_SX -> default
+[13May2025 23:12:59.500] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asias_SX (18)
+[13May2025 23:12:59.501] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asias_SX
+[13May2025 23:13:01.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:59917] logged in with entity id 3166 at (58.18411789867006, 67.0, -90.42366109076858)
+[13May2025 23:13:01.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[13May2025 23:13:01.653] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[13May2025 23:13:01.658] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[13May2025 23:13:02.195] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[13May2025 23:13:02.225] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[13May2025 23:13:02.226] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[13May2025 23:13:26.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
+[13May2025 23:13:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Horde (4)
+[13May2025 23:13:42.668] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:13:55.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Horde (4)
+[13May2025 23:13:59.878] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:14:34.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
+[13May2025 23:15:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was slain by Runner
+[13May2025 23:15:07.521] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:15:19.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Inflated
+[13May2025 23:15:20.911] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:15:38.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX died
+[13May2025 23:15:40.529] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:16:15.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [First Day]
+[13May2025 23:16:19.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Runner
+[13May2025 23:16:21.664] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:16:35.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX died
+[13May2025 23:16:36.613] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:16:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Runner
+[13May2025 23:16:59.920] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:17:22.443] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[13May2025 23:17:22.444] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[13May2025 23:17:22.445] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[13May2025 23:17:29.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Zero Patient
+[13May2025 23:17:37.070] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:17:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Suit Up]
+[13May2025 23:18:01.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Runner
+[13May2025 23:18:03.760] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[13May2025 23:19:00.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Runner
+[13May2025 23:19:03.260] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
