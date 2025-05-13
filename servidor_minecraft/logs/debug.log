@@ -21923,3 +21923,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13May2025 21:22:26.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13May2025 21:23:44.652] [Server thread/DEBUG] [mixin/]: Mixing MixinFluidBucketWrapper from thirst.mixin.json into net.minecraftforge.fluids.capability.wrappers.FluidBucketWrapper
 [13May2025 21:26:02.125] [FastSuite Recipe Lookup Thread: 8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting pepjebs/mapatlases/utils/MapType
+[13May2025 21:27:26.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 21:27:26.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 21:27:28.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:caff
+[13May2025 21:32:26.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 21:32:26.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 21:33:58.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[13May2025 21:34:33.862] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[13May2025 21:34:33.862] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
