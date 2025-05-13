@@ -21564,3 +21564,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13May2025 21:50:36.208] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [13May2025 21:50:36.210] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [13May2025 21:50:36.210] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[13May2025 21:51:41.323] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:lighthouse
+[13May2025 21:51:48.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[13May2025 21:51:48.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[13May2025 21:51:48.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[13May2025 21:51:55.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/zombieawareness/EnumSenseType
+[13May2025 21:52:17.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 21:52:17.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 21:52:51.115] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[13May2025 21:52:51.116] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[13May2025 21:53:22.207] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[13May2025 21:53:22.207] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[13May2025 21:53:23.610] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
+[13May2025 21:53:23.660] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@5509d2ad for service interface com.blamejared.clumps.platform.IEventHelper
+[13May2025 21:53:23.661] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@76c4cfbf for service interface com.blamejared.clumps.platform.IPlatformHelper
+[13May2025 21:54:55.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:gas_station1
+[13May2025 21:54:55.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:caff
+[13May2025 21:54:55.762] [Worker-Main-19/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[13May2025 21:54:55.784] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[13May2025 21:54:55.858] [Worker-Main-18/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[13May2025 21:54:55.861] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin5
+[13May2025 21:54:55.910] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin3
+[13May2025 21:54:56.104] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin2
+[13May2025 21:54:56.361] [Worker-Main-18/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13May2025 21:54:56.361] [Worker-Main-18/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[13May2025 21:54:58.108] [Worker-Main-20/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[13May2025 21:55:59.458] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[13May2025 21:57:17.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 21:57:17.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 21:57:37.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[13May2025 21:59:02.308] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
