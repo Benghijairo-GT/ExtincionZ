@@ -1,3 +1,4 @@
 [13May2025 00:07:10.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
 [13May2025 00:07:10.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [13May2025 00:07:10.392] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[13May2025 00:27:26.239] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/util/WellKnownExceptions
