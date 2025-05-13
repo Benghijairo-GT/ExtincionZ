@@ -5414,3 +5414,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13May2025 21:14:39.408] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
 [13May2025 21:14:39.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT drowned
 [13May2025 21:14:40.927] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[13May2025 21:20:42.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
+[13May2025 21:20:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[13May2025 21:20:42.808] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[13May2025 21:22:11.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:60621] logged in with entity id 2086 at (58.05019190989824, 67.0, -90.60495973628096)
+[13May2025 21:22:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[13May2025 21:22:11.352] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[13May2025 21:22:11.359] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[13May2025 21:22:11.518] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[13May2025 21:22:11.519] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[13May2025 21:22:11.519] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[13May2025 21:26:02.125] [FastSuite Recipe Lookup Thread: 8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting pepjebs/mapatlases/utils/MapType
