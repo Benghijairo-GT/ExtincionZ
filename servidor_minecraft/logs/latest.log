@@ -2,3 +2,10 @@
 [13May2025 00:07:10.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [13May2025 00:07:10.392] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
 [13May2025 00:27:26.239] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/util/WellKnownExceptions
+[13May2025 01:50:21.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:43679] logged in with entity id 13859 at (57.15510743418578, 67.0, -89.27908602505572)
+[13May2025 01:50:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[13May2025 01:50:21.984] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[13May2025 01:50:21.989] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[13May2025 01:50:22.274] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[13May2025 01:50:22.287] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[13May2025 01:50:22.288] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
