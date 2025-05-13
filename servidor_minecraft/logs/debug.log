@@ -22185,3 +22185,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13May2025 02:22:40.288] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$e50f483d208a4647a0bf088cad850a71 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
 [13May2025 02:23:09.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13May2025 02:23:09.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 02:26:19.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
+[13May2025 02:26:19.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[13May2025 02:26:19.339] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of benghijairo_GT
+[13May2025 02:26:19.339] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[13May2025 02:28:08.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 02:28:09.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 02:33:08.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 02:33:09.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -11,3 +11,6 @@
 [13May2025 01:50:22.288] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
 [13May2025 01:56:13.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Sweet Dreams]
 [13May2025 02:21:19.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Acquire Hardware]
+[13May2025 02:26:19.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
+[13May2025 02:26:19.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[13May2025 02:26:19.339] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
