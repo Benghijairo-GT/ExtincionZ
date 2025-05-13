@@ -6204,6 +6204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-13 23:01:27 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-05-13 22:52:27 +0000"
@@ -6306,6 +6312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-13 23:01:28 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/redstone_torch_lever": {
     "criteria": {
       "has_thing": "2025-05-13 22:54:05 +0000"
@@ -6396,6 +6408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-13 23:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-13 22:54:05 +0000"
@@ -6465,6 +6483,12 @@
   "infinitybuttons:recipe/redstone/calcite_large_button": {
     "criteria": {
       "has_thing": "2025-05-13 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-13 23:01:27 +0000"
     },
     "done": true
   },
@@ -6645,6 +6669,12 @@
   "pfm:recipes/furniture/calcite_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-13 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-13 23:01:27 +0000"
     },
     "done": true
   },
