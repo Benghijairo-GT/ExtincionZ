@@ -3996,6 +3996,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dead_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-14 01:36:49 +0000"
@@ -4008,9 +4014,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-14 01:03:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4026,9 +4056,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4050,15 +4092,81 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/magic_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 01:09:21 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4071,6 +4179,12 @@
   "design_decor:recipes/building_blocks/andesite_castel_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4110,9 +4224,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/spruce_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_tile_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4161,6 +4287,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/umbran_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
@@ -4185,6 +4317,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_tile_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
@@ -4197,9 +4335,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/andesite_button": {
     "criteria": {
       "has_thing": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4221,9 +4401,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dead_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4245,15 +4443,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/redwood_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/andesite_button_stonecutter": {
     "criteria": {
       "has_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4278,6 +4500,24 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4311,6 +4551,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_tiles_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
@@ -4323,9 +4569,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_black_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
@@ -4338,6 +4596,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_black_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
