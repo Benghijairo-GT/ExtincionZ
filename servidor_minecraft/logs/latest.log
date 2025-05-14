@@ -5444,3 +5444,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 00:56:49.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
 [14May2025 00:57:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Monster Hunter]
 [14May2025 01:01:15.738] [FastSuite Recipe Lookup Thread: 9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting pepjebs/mapatlases/utils/MapType
+[14May2025 01:03:11.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX died because of natusaurius
+[14May2025 01:03:14.071] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[14May2025 01:04:34.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[14May2025 01:05:54.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Creeper
+[14May2025 01:05:57.262] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[14May2025 01:09:19.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Ram
+[14May2025 01:09:24.330] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[14May2025 01:12:30.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius fell from a high place
+[14May2025 01:12:31.533] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
