@@ -4002,6 +4002,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-14 01:36:49 +0000"
@@ -4026,15 +4032,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_nightstand": {
+    "criteria": {
+      "andesite_classic_nightstand": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gold_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/fir_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/willow_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
     },
     "done": true
   },
@@ -4056,15 +4116,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/crimson_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/tri_candle_holder": {
+    "criteria": {
+      "get_gold_inventory_again": "2025-05-14 02:18:04 +0000"
     },
     "done": true
   },
@@ -4080,9 +4164,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-05-14 02:17:55 +0000"
     },
     "done": true
   },
@@ -4107,6 +4215,12 @@
   "pfm:recipes/furniture/crimson_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
     },
     "done": true
   },
@@ -4146,6 +4260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/rubber_thingamajigs_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
@@ -4158,6 +4278,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
@@ -4167,6 +4293,18 @@
   "pfm:recipes/furniture/acacia_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-05-14 02:17:55 +0000"
     },
     "done": true
   },
@@ -4194,6 +4332,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-05-14 01:09:21 +0000"
@@ -4209,6 +4359,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
     },
     "done": true
   },
@@ -4281,9 +4437,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/lamp_button": {
     "criteria": {
       "has_thing": "2025-05-14 01:53:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-05-14 02:17:55 +0000"
     },
     "done": true
   },
@@ -4293,9 +4467,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
     },
     "done": true
   },
@@ -4359,6 +4551,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/hellbark_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
@@ -4380,6 +4578,12 @@
   "pfm:recipes/furniture/jungle_black_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
     },
     "done": true
   },
@@ -4425,6 +4629,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
@@ -4467,6 +4677,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gold_button": {
+    "criteria": {
+      "has_thing": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/palm_biomesoplenty_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
@@ -4482,6 +4710,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
     },
     "done": true
   },
@@ -4563,6 +4797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
@@ -4599,9 +4839,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:18:04 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_black_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:55 +0000"
     },
     "done": true
   },

@@ -78,7 +78,8 @@
       "clover_patch": "2025-05-12 20:36:14 +0000",
       "orchard": "2025-05-12 20:36:05 +0000",
       "spider_nest": "2025-05-12 23:56:38 +0000",
-      "redwood_forest": "2025-05-12 20:36:03 +0000"
+      "redwood_forest": "2025-05-12 20:36:03 +0000",
+      "grassland": "2025-05-14 02:09:54 +0000"
     },
     "done": false
   },
@@ -7375,6 +7376,126 @@
   "pfm:recipes/furniture/andesite_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-14 02:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gold_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/tri_candle_holder": {
+    "criteria": {
+      "get_gold_inventory_again": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lamp": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lamp_button": {
+    "criteria": {
+      "has_thing": "2025-05-14 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lamp_lever": {
+    "criteria": {
+      "has_thing": "2025-05-14 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gold_button": {
+    "criteria": {
+      "has_thing": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-14 02:17:58 +0000"
     },
     "done": true
   },
