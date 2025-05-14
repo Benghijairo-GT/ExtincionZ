@@ -1,0 +1,17 @@
+{
+	id: "11f838eb-43b5-43ff-8b3f-d6ae4900df52"
+	type: "party"
+	owner: "6a86f881-2d9b-3ea0-8c04-8da69ef0ca83"
+	ranks: {
+		6a86f881-2d9b-3ea0-8c04-8da69ef0ca83: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "benghijairo_GT's Party"
+		"ftbteams:description": "los pros"
+		"ftbteams:color": "#AA0000"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 10000000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1747191712974L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"benghijairo_GT\"}]}" }]
+	extra: { }
+}

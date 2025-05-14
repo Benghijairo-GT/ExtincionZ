@@ -4585,5 +4585,35 @@
     },
     "done": true
   },
+  "createloveandwar:recipes/misc/raw_sulphur_block": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-14 02:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-14 02:52:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-14 02:52:40 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/sulphur_from_blasting_raw_sulphur": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-14 02:56:02 +0000"
+    },
+    "done": true
+  },
+  "createloveandwar:recipes/misc/sulphur_from_smelting_raw_sulphur": {
+    "criteria": {
+      "has_raw_sulphur": "2025-05-14 02:56:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
