@@ -7172,6 +7172,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-14 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-14 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-14 01:12:34 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/powder_keg": {
     "criteria": {
       "get_powder": "2025-05-14 00:55:50 +0000"
