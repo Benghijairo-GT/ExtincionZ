@@ -22558,3 +22558,58 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 01:31:02.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT discovered the floor was lava
 [14May2025 01:31:04.013] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [14May2025 01:31:04.014] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[14May2025 01:34:25.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:34:25.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:35:39.626] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:36:22.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[14May2025 01:36:34.672] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[14May2025 01:36:48.871] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:36:48.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Not Today, Thank You]
+[14May2025 01:36:49.520] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:36:49.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [Not Today, Thank You]
+[14May2025 01:36:51.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:36:51.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:36:51.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Suit Up]
+[14May2025 01:36:53.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Voluntary Exile]
+[14May2025 01:37:23.885] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[14May2025 01:37:45.318] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:37:46.118] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:38:47.883] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[14May2025 01:38:48.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[14May2025 01:39:25.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:39:25.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:39:42.019] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:42.967] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:43.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:44.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:47.168] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:47.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:47.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:50.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:51.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:52.967] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:39:52.967] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:40:10.772] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:40:19.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[14May2025 01:40:20.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [Monster Hunter]
+[14May2025 01:41:15.045] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:41:49.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[14May2025 01:42:00.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[14May2025 01:42:41.865] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[14May2025 01:42:41.866] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 01:42:50.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:42:50.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:42:50.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:42:51.769] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:42:51.769] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:42:51.919] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:42:51.919] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:42:51.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Baby Enderman
+[14May2025 01:42:58.614] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:42:58.616] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[14May2025 01:43:01.769] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:43:01.769] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:43:06.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:43:06.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:43:08.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:43:08.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
