@@ -7379,6 +7379,24 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/lamp": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lamp_button": {
+    "criteria": {
+      "has_thing": "2025-05-14 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lamp_lever": {
+    "criteria": {
+      "has_thing": "2025-05-14 02:17:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-14 02:17:58 +0000"
@@ -7427,12 +7445,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/lamp": {
-    "criteria": {
-      "has_planks": "2025-05-14 02:17:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-14 02:17:58 +0000"
@@ -7457,12 +7469,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/lamp_button": {
-    "criteria": {
-      "has_thing": "2025-05-14 02:17:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-14 02:17:58 +0000"
@@ -7472,12 +7478,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-14 02:17:58 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/lamp_lever": {
-    "criteria": {
-      "has_thing": "2025-05-14 02:17:43 +0000"
     },
     "done": true
   },
