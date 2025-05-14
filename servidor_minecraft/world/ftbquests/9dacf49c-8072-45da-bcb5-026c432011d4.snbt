@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9dacf49c807245dabcb5026c432011d4"
+	name: "natus#9dacf49c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -2,14 +2,16 @@
 	id: "9dacf49c-8072-45da-bcb5-026c432011d4"
 	type: "party"
 	owner: "72f7c3b9-aac8-3ff4-a7ee-ecb698d17541"
-	ranks: { }
+	ranks: {
+		72f7c3b9-aac8-3ff4-a7ee-ecb698d17541: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "natus"
-		"ftbteams:description": ""
-		"ftbteams:color": "#59FFF2"
-		"ftbteams:free_to_join": 0b
+		"ftbteams:description": "adada"
+		"ftbteams:color": "#FFB459"
+		"ftbteams:free_to_join": 1b
 		"ftbteams:max_msg_history_size": 1000
 	}
-	message_history: [ ]
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1747191788118L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"natusaurius\"}]}" }]
 	extra: { }
 }
