@@ -7198,6 +7198,12 @@
     },
     "done": true
   },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_enderman": "2025-05-14 01:42:50 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-05-14 01:12:34 +0000"
@@ -7207,6 +7213,12 @@
   "thingamajigs:recipes/building_blocks/powder_keg": {
     "criteria": {
       "get_powder": "2025-05-14 00:55:50 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-05-14 01:41:28 +0000"
     },
     "done": true
   },

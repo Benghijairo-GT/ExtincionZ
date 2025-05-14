@@ -22613,3 +22613,73 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 01:43:06.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [14May2025 01:43:08.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [14May2025 01:43:08.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:43:55.716] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[14May2025 01:43:55.717] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 01:44:01.205] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/util/WellKnownExceptions
+[14May2025 01:44:25.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:44:25.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:45:16.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[14May2025 01:45:19.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:45:19.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:45:19.625] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:45:20.977] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:45:20.977] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:45:21.976] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:45:21.976] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:45:37.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[14May2025 01:46:06.143] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[14May2025 01:47:31.727] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:31.727] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:31.727] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:31.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Zombie
+[14May2025 01:47:33.209] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:33.212] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[14May2025 01:47:36.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:36.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:36.728] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:36.728] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:37.731] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:47:37.732] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:48:06.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:48:06.022] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:48:10.870] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:48:10.870] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:48:28.424] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:48:28.424] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:49:20.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:49:20.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:49:25.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:49:25.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:50:50.937] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:17.872] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:17.872] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:18.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:18.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:18.525] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:19.130] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:19.624] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:19.624] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:20.132] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:20.680] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:21.178] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:21.225] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:21.226] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:21.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Zombie
+[14May2025 01:51:22.617] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:22.618] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[14May2025 01:51:24.579] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:24.579] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:24.579] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Zombie
+[14May2025 01:51:26.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:26.264] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[14May2025 01:51:45.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:51:45.622] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:52:18.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:52:18.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:52:42.350] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:53:17.005] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:53:23.829] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:53:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was slain by benghijairo_GT
+[14May2025 01:53:25.208] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:53:25.213] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
