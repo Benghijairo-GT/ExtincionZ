@@ -22683,3 +22683,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 01:53:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was slain by benghijairo_GT
 [14May2025 01:53:25.208] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [14May2025 01:53:25.213] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[14May2025 01:54:25.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:54:25.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:55:10.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[14May2025 01:55:26.265] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[14May2025 01:55:26.266] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14May2025 01:57:31.054] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:57:35.388] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:58:58.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:58:58.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:59:25.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:59:25.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:00:02.664] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[14May2025 02:00:02.664] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[14May2025 02:00:02.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[14May2025 02:00:05.378] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:build1
+[14May2025 02:00:32.269] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:00:32.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:00:32.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:00:32.770] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:00:32.771] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:00:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Zombie
+[14May2025 02:00:34.285] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:00:34.285] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[14May2025 02:01:55.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:06.721] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:06.721] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:06.721] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:06.721] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:07.826] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:07.826] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:07.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Zombie
+[14May2025 02:03:08.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Diamonds!]
+[14May2025 02:03:10.321] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:10.321] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:10.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Zombie
+[14May2025 02:03:11.804] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:11.813] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[14May2025 02:03:13.710] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 02:03:13.713] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'

@@ -4032,6 +4032,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/lamp": {
+    "criteria": {
+      "has_planks": "2025-05-14 01:53:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
@@ -4149,6 +4155,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/lamp_button": {
+    "criteria": {
+      "has_thing": "2025-05-14 01:53:40 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
@@ -4176,6 +4188,12 @@
   "design_decor:recipes/building_blocks/andesite_castel_tile_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-14 01:09:21 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lamp_lever": {
+    "criteria": {
+      "has_thing": "2025-05-14 01:53:40 +0000"
     },
     "done": true
   },
