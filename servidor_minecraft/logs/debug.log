@@ -22457,3 +22457,104 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 01:23:07.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_1
 [14May2025 01:23:07.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_4
 [14May2025 01:23:07.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_9
+[14May2025 01:24:25.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:24:25.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:26:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made benghiejairo_gt a server operator
+[14May2025 01:26:15.957] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:26:23.970] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:26:23.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:26:23.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:26:23.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Revived
+[14May2025 01:26:25.810] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:26:25.813] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[14May2025 01:26:30.686] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:26:37.912] [Server thread/DEBUG] [mixin/]: Mixing MixinFluidUtil from thirst.mixin.json into net.minecraftforge.fluids.FluidUtil
+[14May2025 01:26:37.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[14May2025 01:28:05.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:05.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:08.919] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:08.922] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:09.436] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:09.437] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:09.485] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:09.870] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:09.870] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:09.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:10.420] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:10.923] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:11.420] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:11.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:12.470] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:12.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:13.470] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:13.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:14.471] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:14.971] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:15.472] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:16.020] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:16.670] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:17.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:17.822] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:18.319] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:18.920] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:19.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:19.919] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:20.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:20.920] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:21.570] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:22.077] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:22.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:23.072] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:23.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:24.121] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:24.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:25.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:25.670] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:26.274] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:26.824] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:27.371] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:28.072] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:28.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:29.071] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:29.670] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:30.222] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:30.721] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:31.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:31.921] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:32.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:32.922] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:33.520] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:34.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:34.621] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:35.121] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:35.726] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:36.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:36.772] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:37.272] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:37.771] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:38.271] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:28:38.820] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:10.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:10.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:14.719] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:14.719] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:15.171] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:15.821] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:16.119] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:16.119] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:16.119] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:16.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Runner
+[14May2025 01:29:18.062] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:29:18.063] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[14May2025 01:29:25.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:29:25.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:30:46.688] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:30:56.820] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:31:00.722] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:31:01.224] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:31:01.723] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:31:02.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:31:02.721] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:31:02.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT discovered the floor was lava
+[14May2025 01:31:04.013] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[14May2025 01:31:04.014] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'

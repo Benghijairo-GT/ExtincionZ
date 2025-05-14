@@ -3228,7 +3228,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2025-05-14 00:34:53 +0000"
+      "porkchop": "2025-05-14 00:34:53 +0000",
+      "apple": "2025-05-14 01:24:03 +0000"
     },
     "done": false
   },

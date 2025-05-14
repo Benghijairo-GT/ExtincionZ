@@ -5459,3 +5459,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 01:19:12.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [14May2025 01:20:14.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [14May2025 01:20:42.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Multi-Tool]
+[14May2025 01:26:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made benghiejairo_gt a server operator
+[14May2025 01:26:23.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Revived
+[14May2025 01:26:25.813] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[14May2025 01:26:37.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[14May2025 01:29:16.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was killed by magic whilst trying to escape Runner
+[14May2025 01:29:18.063] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[14May2025 01:31:02.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT discovered the floor was lava
+[14May2025 01:31:04.014] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
